@@ -1,0 +1,12 @@
+{
+  "name": "cat-pexeso",
+  "version": "1.0.0",
+  "description": "Cat Pexeso - Cute Cat Memory Game",
+  "main": "index.html",
+  "scripts": {
+    "tauri": "tauri"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.1.0"
+  }
+}
